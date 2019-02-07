@@ -1,3 +1,0 @@
-location /<service-name>{
-   proxy_pass  http://<service-container>:<port>
-}
